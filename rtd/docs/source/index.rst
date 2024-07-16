@@ -21,30 +21,30 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 2
    :caption: OVIS and Group Activity
 
-   About Ovis <https://ovis-hpc-personal.readthedocs.io/en/latest/aboutovis.html>
-   LDMS Users Group Conference (LDMSCON) <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
-   LDSM Users Group <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ug.html>
-   OVIS Publications <https://ovis-hpc-personal.readthedocs.io/en/latest/publications.html>
+   About Ovis <https://ovis-hpc.readthedocs.io/en/latest/aboutovis.html>
+   LDMS Users Group Conference (LDMSCON) <https://ovis-hpc.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
+   LDSM Users Group <https://ovis-hpc.readthedocs.io/projects/ldms/en/latest/ug.html>
+   OVIS Publications <https://ovis-hpc.readthedocs.io/en/latest/publications.html>
 
 .. toctree::
    :maxdepth: 4
    :caption: OVIS Components
 
-   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldms-index.html>
-   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/sos-index.html>
-   Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/maestro-index.html>
+   LDMS <https://ovis-hpc.readthedocs.io/projects/ldms/en/latest/ldms-index.html>
+   SOS <https://ovis-hpc.readthedocs.io/projects/sos/en/latest/sos-index.html>
+   Maestro <https://ovis-hpc.readthedocs.io/projects/maestro/en/latest/maestro-index.html>
    baler-index
-   ASF <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
+   ASF <https://ovis-hpc.readthedocs.io/projects/ldms/en/latest/asf/index.html>
 
 .. toctree::
    :maxdepth: 6
    :caption: Deployment
 
-   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/deployment/index.html>
-   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/deployment/index.html>
-   Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/deployment/index.html>
+   LDMS <https://ovis-hpc.readthedocs.io/projects/ldms/en/latest/deployment/index.html>
+   SOS <https://ovis-hpc.readthedocs.io/projects/sos/en/latest/deployment/index.html>
+   Maestro <https://ovis-hpc.readthedocs.io/projects/maestro/en/latest/deployment/index.html>
    deployment/index
-   ASF <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/deployment/index.html>
+   ASF <https://ovis-hpc.readthedocs.io/projects/ldms/en/latest/asf/deployment/index.html>
 
    
 Other Projects

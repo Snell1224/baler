@@ -1,7 +1,7 @@
 OVIS-HPC Baler Documentation
 ########################
 
-This repository hosts all Baler related documentation such as how-to tutorials, getting started with Baler, docker-hub links, API's and much more. Documentation webpage can be found in the `Baler readthedocs webpage <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/>`_
+This repository hosts all Baler related documentation such as how-to tutorials, getting started with Baler, docker-hub links, API's and much more. Documentation webpage can be found in the `Baler readthedocs webpage <https://ovis-hpc.readthedocs.io/projects/baler/en/latest/>`_
 
 Contributing to ReadTheDocs
 ############################
