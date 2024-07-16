@@ -5,5 +5,5 @@ This section covers how to deploy and test Baler
 .. toctree::
    :maxdepth: 2
 
-   sos-test
+   test
 
