@@ -34,7 +34,7 @@ Welcome To OVIS-HPC Documentation!
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/sos-index.html>
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/maestro-index.html>
    baler-index
-   AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
+   ASF <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
 
 .. toctree::
    :maxdepth: 6
@@ -44,7 +44,7 @@ Welcome To OVIS-HPC Documentation!
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/deployment/index.html>
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/deployment/index.html>
    deployment/index
-   AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/deployment/index.html>
+   ASF <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/deployment/index.html>
 
    
 Other Projects
